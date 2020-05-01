@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e2cfd1-4cde-4e56-a528-ca75161a55eb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YRXqRQXiet2F0DWxcvmc7I2omU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab3_revised" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="EssayAssmt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e2cfd1-4cde-4e56-a528-ca75161a55eb" name="Default Changelist" comment="" />
+      <created>1582906570883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582906570883</updated>
+      <workItem from="1582906572992" duration="20000" />
+      <workItem from="1582906705507" duration="3031000" />
+      <workItem from="1584357723743" duration="18000" />
+      <workItem from="1584615275935" duration="3900000" />
+      <workItem from="1584620537087" duration="11000" />
+      <workItem from="1584620648961" duration="423000" />
+      <workItem from="1584621150649" duration="511000" />
+      <workItem from="1584621676870" duration="134000" />
+      <workItem from="1584622147338" duration="357000" />
+      <workItem from="1584622571372" duration="31000" />
+      <workItem from="1584622654517" duration="1589000" />
+      <workItem from="1584648330018" duration="2529000" />
+      <workItem from="1584701718672" duration="3347000" />
+      <workItem from="1584705091029" duration="35000" />
+      <workItem from="1584705152144" duration="54000" />
+      <workItem from="1584719497149" duration="3826000" />
+      <workItem from="1584726555880" duration="2405000" />
+      <workItem from="1584729041603" duration="102000" />
+      <workItem from="1585311665633" duration="70000" />
+      <workItem from="1585311937909" duration="7209000" />
+      <workItem from="1585836847610" duration="8986000" />
+      <workItem from="1585852329904" duration="2596000" />
+      <workItem from="1585944958499" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1585849920693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1585849920693" />
+    <state x="718" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585853406597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="391" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1585853406597" />
+    <state width="895" height="175" key="GridCell.Tab.0.bottom" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.0.center" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.0.left" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.0.right" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.1.bottom" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.1.center" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.1.left" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+    <state width="895" height="175" key="GridCell.Tab.1.right" timestamp="1585935216595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="895" height="175" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585935216595" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/essay_comparison.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="return_match_scores" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EssayAssmt$main_py.coverage" NAME="main.py Coverage Results" MODIFIED="1584729119025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EssayAssessment$main_py.coverage" NAME="main.py Coverage Results" MODIFIED="1585864387703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EssayAssmt$comparsion.coverage" NAME="comparsion Coverage Results" MODIFIED="1582909712757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

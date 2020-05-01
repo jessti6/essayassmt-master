@@ -1,0 +1,58 @@
+<html lang="en">
+	<head>
+		<title>Essay Assessment Upload</title>
+		<style type="text/css">
+			body {
+			  background-color: lightgrey;
+			}
+			h2 {
+			  color: #99badd;
+			  font-family: Verdana,sans-serif;
+			  font-size: 150%;
+			}
+			p  {
+			  color: black;
+			  font-family: Arial,sans-serif;
+			  font-size: 100%;
+			}
+		</style>
+		<script>
+			window.onpageshow = function() {
+				populate();
+			};
+			function populate() {
+				document.getElementById("key_file").value = "{{ context.key_file }}";
+			}
+		</script>
+	</head>
+	<body>
+		<h2>Select files to compare</h2>
+		<p>
+			{% with messages = get_flashed_messages() %}
+			{% if messages %}
+			<ul class=flashes>
+				{% for message in messages %}
+				<li>{{ message }}</li>
+				{% endfor %}f
+			</ul>
+			{% endif %}
+			{% endwith %}
+		<form method="post" action="/" enctype="multipart/form-data">
+		    <dl>
+				<p>Enter the key file:&nbsp;
+					<input type="file" id="key_file" name="key_file" autocomplete="off" required>
+				</p>
+				{% if context.repeated %}
+				<p>Enter the next student file:&nbsp;
+				{% else %}
+				<p>Enter the student file:&nbsp;
+				{% endif %}
+					<input type="file" name="student_file" autocomplete="off" required>
+				</p>
+			</dl>
+			<p>
+				<input type="submit" value="Go">
+			</p>
+		</form>
+	</body>
+</html>
